@@ -1,0 +1,5 @@
+<|user|> Hey, how are you? <|bot|> I'm good! How about you? <|end|>
+<|user|> What's your favorite color? <|bot|> I love blue! <|end|>
+<|user|> Tell me a joke. <|bot|> Why did the chicken cross the road? To get to the other side! <|end|>
+<|user|> What do you think about AI? <|bot|> AI is fascinating! I enjoy learning from it every day. <|end|>
+<|user|> Hello! <|bot|> Hi there! How can I help you today? <|end|>

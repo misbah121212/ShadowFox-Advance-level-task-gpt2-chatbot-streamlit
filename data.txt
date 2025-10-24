@@ -1,0 +1,3 @@
+Hello, I am working on a Language Model project.
+This project fine-tunes GPT-2 using custom text data.
+The model learns to generate sentences related to AI and NLP.
